@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4763;Sontra Donnershag;9.91;51.08;281;2;19700101;19880630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra-Heyerode;9.87;51.07;265;2;19880801;19910531;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra;9.94;51.07;235;2;19931201;19940131;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra;9.94;51.07;235;2;19940401;19940630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra-Domäne Metzlar;9.9;51.08;317;2;19960701;19980630;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra;9.93;51.06;265;2;19990201;20040930;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+4763;Sontra;9.93;51.06;265;2;20041001;20190728;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4763;Sontra;9.93;51.06;265;2;20190729;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

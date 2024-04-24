@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   555;Bochum;18880101;19701231
+   555;Bochum;19790101;19940430
+   555;Bochum;20070319;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   555;Wetterdienst;18880101;19521110
+   555;DWD;19521111;19701231
+   555;DWD;19790101;19940430
+   555;DWD;20070319;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

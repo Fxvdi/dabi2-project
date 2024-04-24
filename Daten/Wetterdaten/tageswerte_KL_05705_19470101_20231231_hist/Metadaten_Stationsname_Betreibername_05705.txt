@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5705;Würzburg;19360501;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  5705;Wetterdienst;19360501;19521110
+  5705;DWD;19521111;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1443;Freiburg im Breisgau;18680101;19490430
+  1443;Freiburg;19490501;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1443;Wetterdienst;18680101;19490430
+  1443;DWD;19490501;
+generiert: 08.05.2023 --  Deutscher Wetterdienst  --

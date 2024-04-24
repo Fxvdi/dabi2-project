@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   880;Cottbus;18870101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   880;Wetterdienst;18870101;19491231
+   880;Meteorologischer Dienst der DDR;19500101;19901231
+   880;DWD;19910101;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

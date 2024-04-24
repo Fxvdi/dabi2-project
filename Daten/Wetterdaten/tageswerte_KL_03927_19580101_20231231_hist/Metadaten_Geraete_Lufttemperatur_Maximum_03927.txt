@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3927;Pfullendorf;9.26;47.93;678;2;19580101;19650905;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.26;47.93;676;2;19650906;19710831;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.25;47.92;657;2;19710901;19720331;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.27;47.91;672;2;19720401;19750930;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.27;47.91;675;2;19751001;19790904;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.27;47.92;668;2;19790905;19840930;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf-Brunnhausen;9.29;47.92;638;2.2;19841001;20030630;Maximumthermometer;Temperaturmessung, konv.;eor;
+3927;Pfullendorf;9.29;47.93;629.5;2;20040701;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+555;Bochum;;;;;19400101;20071112;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
+555;Bochum;7.27;51.48;101;;20071113;20181101;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

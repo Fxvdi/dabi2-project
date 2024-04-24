@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+377;Bergzabern;7.99;49.1;181;2;19470101;19650831;Maximumthermometer;Temperaturmessung, konv.;eor;
+377;Bergzabern;8;49.1;185;2;19650901;19681231;Maximumthermometer;Temperaturmessung, konv.;eor;
+377;Bergzabern, Bad;8;49.1;185;2;19690101;19770623;Maximumthermometer;Temperaturmessung, konv.;eor;
+377;Bergzabern, Bad;8;49.1;180;2;19770701;20030310;Maximumthermometer;Temperaturmessung, konv.;eor;
+377;Bergzabern, Bad;8;49.11;210;2;20041001;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

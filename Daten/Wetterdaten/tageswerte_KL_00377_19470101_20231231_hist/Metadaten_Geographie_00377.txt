@@ -1,0 +1,7 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+   377;  181.00; 49.1017;  7.9920;19261101;19390831;Bergzabern, Bad
+   377;  181.00; 49.1017;  7.9920;19410101;19431231;Bergzabern, Bad
+   377;  181.00; 49.1017;  7.9920;19470101;19650831;Bergzabern, Bad
+   377;  185.00; 49.1040;  7.9967;19650901;19770623;Bergzabern, Bad
+   377;  180.00; 49.1014;  8.0034;19770624;20021231;Bergzabern, Bad
+   377;  210.00; 49.1070;  7.9967;20030311;        ;Bergzabern, Bad

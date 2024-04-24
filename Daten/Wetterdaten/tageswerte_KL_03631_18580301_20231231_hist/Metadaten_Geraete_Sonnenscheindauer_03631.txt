@@ -1,0 +1,16 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3631;Norderney;;;;;19360201;19360531;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;7;17.5;19360601;19380331;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.7;4;17.5;19380401;19470430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;13.2;1.1;19470501;19570929;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;13.2;1.7;19570930;19660731;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;13.2;11.2;19660801;19810831;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;19810901;19930930;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;19931001;20170809;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;20170704;20181008;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;20181022;20190627;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;20190703;20230110;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;20230111;20230204;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;8.8;20230214;20230417;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;;20230418;20240328;Pyranometer CM21 (+Sonne);Sonnenscheind/Strahlungs-/Sonnenscheinmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

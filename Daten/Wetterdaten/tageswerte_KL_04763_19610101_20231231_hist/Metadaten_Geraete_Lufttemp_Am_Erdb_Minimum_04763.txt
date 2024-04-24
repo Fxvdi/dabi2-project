@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4763;Sontra Donnershag;9.91;51.08;281;.05;19610101;19880630;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra-Heyerode;9.87;51.07;265;.05;19880801;19910531;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra;9.94;51.07;235;.05;19931201;19940131;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra;9.94;51.07;235;.05;19940401;19940531;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra-Domäne Metzlar;9.9;51.08;317;.05;19960701;19980630;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra;9.93;51.06;265;.05;19990201;20040930;Minimumthermometer;Temperaturmessung, konv.;eor;
+4763;Sontra;9.93;51.06;265;.05;20041001;20240206;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+4763;Sontra;9.93;51.06;265;.05;20240209;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

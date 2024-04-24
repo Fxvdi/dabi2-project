@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3939;Pirmasens;7.62;49.2;378;.05;19500101;19500929;Minimumthermometer;Temperaturmessung, konv.;eor;
+3939;Pirmasens;7.6;49.19;398;.05;19500930;19760331;Minimumthermometer;Temperaturmessung, konv.;eor;
+3939;Pirmasens;7.59;49.19;385;.05;20041001;20240328;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

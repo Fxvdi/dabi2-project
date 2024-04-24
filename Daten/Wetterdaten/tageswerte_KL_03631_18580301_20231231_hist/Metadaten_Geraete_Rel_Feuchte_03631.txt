@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+3631;Norderney;;;;;18580301;19271231;Gerätetyp unbekannt;Feuchteregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;2;1.9;19280101;19340330;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;7;1.9;19340331;19380331;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+3631;Norderney;7.15;53.7;4;1.9;19380401;19470430;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;13.2;1.9;19470501;19810831;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+3631;Norderney;7.15;53.71;11.47;2;19810901;20060404;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+3631;Norderney;7.15;53.71;11.47;2;19930915;20140916;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+3631;Norderney;7.15;53.71;11.47;2;20140917;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,3 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5792; 2956.00; 47.4210; 10.9848;19000719;20071016;Zugspitze
+  5792; 2956.00; 47.4210; 10.9848;20071017;        ;Zugspitze

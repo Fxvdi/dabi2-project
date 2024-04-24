@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+   377;Bergzabern;19261101;19390831
+   377;Bergzabern;19410101;19431231
+   377;Bergzabern;19470101;19681231
+   377;Bergzabern, Bad;19690101;20021231
+   377;Bergzabern, Bad;20030311;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+   377;Wetterdienst;19261101;19390831
+   377;Wetterdienst;19410101;19431231
+   377;Wetterdienst;19470101;19521110
+   377;DWD;19521111;20021231
+   377;DWD;20030311;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

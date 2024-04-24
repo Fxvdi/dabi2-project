@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5792;Zugspitze;19000719;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  5792;Wetterdienst;19000719;19521110
+  5792;DWD;19521111;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --
