@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1757;Greifswald;;;;;18980301;19771231;Gerätetyp unbekannt;Feuchteregistrierung, konv.;eor;
+1757;Greifswald;13.41;54.1;2;2;19780101;19991231;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+1757;Greifswald;13.41;54.1;2;2;19790101;19910115;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19910117;19921120;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19921110;19921123;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19930112;19930120;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19930126;19940419;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19940511;19991207;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;19991209;20040814;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;20040401;20060831;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;20060901;20141127;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+1757;Greifswald;13.41;54.1;2;2;20140918;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

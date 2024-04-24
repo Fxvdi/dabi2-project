@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5792;Zugspitze;10.98;47.42;2956;7.7;19000801;19450505;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;7.7;19450804;19510511;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;7.6;19510512;19771231;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.6;19860313;19940726;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;10;19940727;20071016;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.6;20071017;20141015;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;10.13;20141016;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

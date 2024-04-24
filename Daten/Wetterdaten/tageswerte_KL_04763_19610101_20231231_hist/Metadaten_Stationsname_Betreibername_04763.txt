@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4763;Sontra Donnershag;19500223;19880731
+  4763;Sontra-Heyerode;19880801;19910531
+  4763;Sontra;19931201;19940630
+  4763;Sontra-Domäne Metzlar;19960701;19990131
+  4763;Sontra;19990201;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  4763;Wetterdienst;19500223;19521110
+  4763;DWD;19521111;19910531
+  4763;DWD;19931201;19940630
+  4763;DWD;19960701;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

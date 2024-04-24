@@ -1,0 +1,9 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5705;Würzburg;9.88;49.82;211;1;19470101;19500630;Hellmann;Niederschlagsmenge, konv.;eor;
+5705;Würzburg;9.91;49.8;259;1;19500701;19810405;Hellmann;Niederschlagsmenge, konv.;eor;
+5705;Würzburg;9.96;49.77;268;1;19810406;19921021;Hellmann;Niederschlagsmenge, konv.;eor;
+5705;Würzburg;9.96;49.77;268;1;19921022;20030120;NG 200, Tröpfchenzähler;Niederschlagsdauer, -menge, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;1;20030121;20060606;PLUVIO;Niederschlagsmenge, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;1;20060607;20200316;PLUVIO;Niederschlagsmenge, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;1;20200317;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

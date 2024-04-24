@@ -1,0 +1,13 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5705;Würzburg;9.88;49.82;211;1.4;19470101;19500630;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5705;Würzburg;9.91;49.8;259;3.5;19500701;19570430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5705;Würzburg;9.91;49.8;259;4;19570501;19810405;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5705;Würzburg;9.96;49.77;268;7.35;19810406;19940228;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5705;Würzburg;9.96;49.77;268;7.35;19940301;20060606;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;7.35;20060607;20130604;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;8.3;20130605;20180808;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;8.3;20180809;20190806;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;8.3;20190807;20200706;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;8.3;20200713;20200909;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5705;Würzburg;9.96;49.77;268;8.3;20200918;20240328;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

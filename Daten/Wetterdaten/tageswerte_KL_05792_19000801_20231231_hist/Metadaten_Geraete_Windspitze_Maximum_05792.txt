@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5792;Zugspitze;10.98;47.42;2956;16;19800101;19860126;Universal-Windmesser 82;Windmessung;eor;
+5792;Zugspitze;10.98;47.42;2956;15.45;19860127;20180911;Windgeber SK-565;Windmessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;15.45;20180912;20210408;Ultrasonic Anemometer 3D;Windmessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;15.45;20210416;20240328;Ultrasonic Anemometer 3D;Windmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

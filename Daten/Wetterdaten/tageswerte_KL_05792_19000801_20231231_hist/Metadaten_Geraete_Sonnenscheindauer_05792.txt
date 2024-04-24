@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5792;Zugspitze;;;;;19000801;19001231;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.45;19010101;19450505;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.65;19450808;19940726;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.65;19940727;20071016;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.77;20071017;20080102;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.77;20080103;20180522;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.77;20180523;20190412;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.77;20210204;20240127;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+5792;Zugspitze;10.98;47.42;2956;9.77;20240130;20240328;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

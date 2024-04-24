@@ -1,0 +1,11 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  3939;Pirmasens;18990111;19441231
+  3939;Pirmasens;19460801;19760331
+  3939;Pirmasens;20040614;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  3939;Wetterdienst;18990111;19441231
+  3939;Wetterdienst;19460801;19521110
+  3939;DWD;19521111;19760331
+  3939;DWD;20040614;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --
