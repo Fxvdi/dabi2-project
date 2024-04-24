@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Von_Datum;Bis_Datum
-  5717;Wuppertal-Buchenhofen;18951101;
-
-Stations_ID;Betreibername;Von_Datum;Bis_Datum
-  5717;Wetterdienst;18951101;19521110
-  5717;DWD;19521111;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

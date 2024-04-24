@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;19460601;20080623;Stationsbarometer;Luftdruckmessung, konv.;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;19890720;19930131;Absolutdruckwandler (ADMW);Luftdruckmessung, elektr.;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;19921201;20020829;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;20020903;20040815;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;20040818;20170103;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
-880;Cottbus;14.32;51.78;68.66;69.5;20160906;20240328;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

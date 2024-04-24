@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  5717;  160.00; 51.2483;  7.1324;18951101;19051231;Wuppertal-Buchenhofen
-  5717;  186.00; 51.2633;  7.1411;19060101;19240930;Wuppertal-Buchenhofen
-  5717;  178.00; 51.2504;  7.1455;19241001;19320331;Wuppertal-Buchenhofen
-  5717;  126.00; 51.2300;  7.1100;19320401;20060831;Wuppertal-Buchenhofen
-  5717;  134.00; 51.2256;  7.1052;20060901;        ;Wuppertal-Buchenhofen

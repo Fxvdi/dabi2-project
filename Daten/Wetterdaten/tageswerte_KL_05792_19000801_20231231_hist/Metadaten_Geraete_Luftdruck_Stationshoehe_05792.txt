@@ -1,9 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Barometerhoehe ueber NN [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5792;Zugspitze;10.98;47.42;2956;2962.6;19000801;19450505;Stationsbarometer;Luftdruckmessung, konv.;eor;
-5792;Zugspitze;10.98;47.42;2956;2962.6;19450930;19940726;Stationsbarometer;Luftdruckmessung, konv.;eor;
-5792;Zugspitze;10.98;47.42;2956;2962.6;19940727;20071016;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
-5792;Zugspitze;10.98;47.42;2956;2960.2;20071017;20090805;Digitalbarometer AIR-DB;Luftdruckmessung, elektr.;eor;
-5792;Zugspitze;10.98;47.42;2956;2960.2;20090806;20121114;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
-5792;Zugspitze;10.98;47.42;2956;2960.2;20121115;20141015;Luftdrucksensor Vaisala PTB 220;Luftdruckmessung, elektr.;eor;
-5792;Zugspitze;10.98;47.42;2956;2960.2;20141016;20240328;Digitalbarometer PTB 330 (ohne Anzeige, einfach);Luftdruckmessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

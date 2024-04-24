@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;126;1;19370101;19421230;Hellmann;Niederschlagsmenge, konv.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;126;1;19480101;20060831;Hellmann;Niederschlagsmenge, konv.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;134;1;20060901;20190220;PLUVIO;Niederschlagsmenge, elektr.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;134;1;20190221;20230726;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;134;1;20230729;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

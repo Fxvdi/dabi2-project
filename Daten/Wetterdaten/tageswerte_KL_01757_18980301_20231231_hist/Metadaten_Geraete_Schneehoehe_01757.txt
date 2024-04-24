@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-1757;Greifswald;;;;;18980301;19771231;Gerätetyp unbekannt;Schneehöhenmessung, manuell;eor;
-1757;Greifswald;13.41;54.1;2;;19780101;20060831;Schneepegel;Schneehöhenmessung, manuell;eor;
-1757;Greifswald;13.41;54.1;2;;20060901;20201031;Schneepegel;Schneehöhenmessung, manuell;eor;
-1757;Greifswald;13.41;54.1;2;2.3;20190515;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

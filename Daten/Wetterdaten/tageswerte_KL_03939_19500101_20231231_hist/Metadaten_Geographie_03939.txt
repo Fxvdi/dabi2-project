@@ -1,6 +1,0 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
-  3939;  350.00; 49.2004;  7.6041;18990111;19331231;Pirmasens
-  3939;  350.00; 49.1931;  7.6167;19340101;19441231;Pirmasens
-  3939;  378.00; 49.1986;  7.6217;19460801;19500929;Pirmasens
-  3939;  398.00; 49.1929;  7.5950;19500930;19760331;Pirmasens
-  3939;  385.00; 49.1912;  7.5879;20040614;        ;Pirmasens

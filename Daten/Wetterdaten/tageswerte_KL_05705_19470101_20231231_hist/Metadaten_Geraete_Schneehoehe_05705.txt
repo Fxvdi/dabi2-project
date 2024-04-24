@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5705;Würzburg;9.88;49.82;211;;19470101;19500630;Schneepegel;Schneehöhenmessung, manuell;eor;
-5705;Würzburg;9.91;49.8;259;;19500701;19810405;Schneepegel;Schneehöhenmessung, manuell;eor;
-5705;Würzburg;9.96;49.77;268;;19810406;20060606;Schneepegel;Schneehöhenmessung, manuell;eor;
-5705;Würzburg;9.96;49.77;268;;20060607;20151031;Schneepegel;Schneehöhenmessung, manuell;eor;
-5705;Würzburg;9.96;49.77;268;2.3;20131001;20210509;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
-5705;Würzburg;9.96;49.77;268;2;20210510;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

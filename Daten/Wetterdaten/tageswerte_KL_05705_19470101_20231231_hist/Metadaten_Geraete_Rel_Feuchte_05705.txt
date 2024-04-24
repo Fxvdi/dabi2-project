@@ -1,9 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5705;Würzburg;9.88;49.82;211;2;19470319;19500630;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
-5705;Würzburg;9.91;49.8;259;2;19500701;19640630;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
-5705;Würzburg;9.91;49.8;259;2;19640701;19810405;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5705;Würzburg;9.96;49.77;268;2;19810406;20060606;Thermohygrograph;Temperatur- und Feuchtereg., konv.;eor;
-5705;Würzburg;9.96;49.77;268;2;19921022;20060606;HYGROMER MP100;Feuchtemessung, elektr.;eor;
-5705;Würzburg;9.96;49.77;268;2;20060607;20150323;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5705;Würzburg;9.96;49.77;268;2;20150324;20240328;EE33;Feuchtemessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,6 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-5717;Wuppertal-Buchenhofen;;;;;19370101;19460531;Gerätetyp unbekannt;Feuchteregistrierung, konv.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;126;2;19460601;20060831;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;134;2;20060901;20151108;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
-5717;Wuppertal-Buchenhofen;7.11;51.23;134;2;20151109;20240328;EE33;Feuchtemessung, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

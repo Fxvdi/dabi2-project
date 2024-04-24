@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-4763;Sontra Donnershag;9.91;51.08;281;;19610101;19880630;Schneepegel;Schneehöhenmessung, manuell;eor;
-4763;Sontra-Heyerode;9.87;51.07;265;;19880801;19910531;Schneepegel;Schneehöhenmessung, manuell;eor;
-4763;Sontra;9.94;51.07;235;;19931201;19940630;Schneepegel;Schneehöhenmessung, manuell;eor;
-4763;Sontra-Domäne Metzlar;9.9;51.08;317;;19960701;19980814;Schneepegel;Schneehöhenmessung, manuell;eor;
-4763;Sontra;9.93;51.06;265;;19990201;20240328;Schneepegel;Schneehöhenmessung, manuell;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

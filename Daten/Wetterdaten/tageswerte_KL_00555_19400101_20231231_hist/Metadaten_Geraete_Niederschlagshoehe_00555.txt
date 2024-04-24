@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-555;Bochum;7.21;51.49;83;1;19400101;19510422;Hellmann;Niederschlagsmenge, konv.;eor;
-555;Bochum;7.22;51.49;81;1;19510423;19611231;Hellmann;Niederschlagsmenge, konv.;eor;
-555;Bochum;7.22;51.5;79;1;19620101;19680705;Hellmann;Niederschlagsmenge, konv.;eor;
-555;Bochum;7.22;51.49;77;1;19790101;19940430;Hellmann;Niederschlagsmenge, konv.;eor;
-555;Bochum;7.27;51.48;101;1;20071106;20181101;PLUVIO;Niederschlagsmenge, elektr.;eor;
-555;Bochum;7.23;51.5;110;1;20221101;20240328;rain[e]H3, Wägetechnologie;Niederschlagsmenge, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --

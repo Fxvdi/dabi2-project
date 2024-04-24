@@ -1,7 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-555;Bochum;;;;;19400101;19620531;Gerätetyp unbekannt;Sonnenscheinregistrierung, konv.;eor;
-555;Bochum;7.22;51.5;79;8;19620601;19680705;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
-555;Bochum;7.22;51.49;77;31;19790101;19940430;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
-555;Bochum;7.27;51.48;101;6;20080726;20170719;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
-555;Bochum;7.27;51.48;101;6;20170720;20181101;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --
