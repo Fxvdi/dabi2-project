@@ -1,4 +1,4 @@
-Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;Von_Datum;Bis_Datum;Stationsname
    433;   47.00; 52.4641; 13.4003;19280101;19431231;Berlin-Tempelhof
    433;   48.00; 52.4705; 13.4041;19440101;19450228;Berlin-Tempelhof
    433;   48.00; 52.4705; 13.4041;19450301;19470630;Berlin-Tempelhof
