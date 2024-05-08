@@ -1,8 +1,0 @@
-Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
-850;Celle;;;;;19740801;19790102;Gerätetyp unbekannt;Windmessung, elektromechanisch;eor;
-850;Celle;10.03;52.6;39;10;19790103;19871019;Universal-Windschreiber 90;Windmessung, elektromechanisch;eor;
-850;Celle;10.03;52.6;39;10;19871020;20070613;Windmessanlage, unbekannt;Windmessung;eor;
-850;Celle;10.03;52.6;39;10;20070614;20151231;Windmessanlage, unbekannt;Windmessung;eor;
-850;Celle;10.03;52.6;39;10;20160101;20170330;Windmessanlage FA 106;Windmessung, elektromechanisch;eor;
-850;Celle;10.03;52.6;44.74;10;20170331;20240328;Windmessanlage FA 106;Windmessung, elektromechanisch;eor;
-generiert: 03.04.2024 --  Deutscher Wetterdienst  --
